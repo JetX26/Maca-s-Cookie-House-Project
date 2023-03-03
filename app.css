@@ -67,7 +67,6 @@ body {
 }
 
 .container.clicked {
-    transform-style: preserve-3d;
     transform: rotateY(360deg) translateZ(30px);
 }
 
@@ -167,6 +166,7 @@ body {
 .wrapper {
     perspective: 1000px;
 }
+
 
 
 
